@@ -8,4 +8,4 @@ Interactive Chat Interface: Users can input questions and receive answers in rea
 PDF Document Processing: Allows users to upload multiple PDF documents for processing and analysis.
 Conversational AI: Utilizes state-of-the-art generative AI models to generate context-aware responses.
 Vector Indexing: Efficiently indexes PDF document content using vector embeddings for quick retrieval and analysis.
-Usage
+
